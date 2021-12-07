@@ -1,6 +1,6 @@
 # pokemon-GAN
 
-Creating Fake Pokémon Images with GAN (Generative Adversarial Network)
+Generating fake Pokémons with GAN (Generative Adversarial Network)
 
 ### Results
 Here’s the mesmerizing training process:
